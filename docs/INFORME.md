@@ -1571,13 +1571,3 @@ Todas las capturas se incluyen en el capítulo 11; los archivos de imagen están
 ### 14.4. Enlace al repositorio GitHub
 
 https://github.com/Richard-Rocuant-O/apache-spark-ml (debe ir también como enlace dentro del PDF).
-
-### 14.5. Correspondencia con la rúbrica de la Evaluación 2
-
-| Criterio | Qué pide la rúbrica | Dónde se evidencia | Estado |
-|---|---|---|---|
-| **2.1.1** Arquitectura de alta disponibilidad | Diagrama de las capas; explicación de fallos, escalabilidad horizontal y redundancia | 3.5, 3.6 (Figura 3.1), 3.8 (Figura 3.2 y tabla), 3.9 | Diseño completo; la alta disponibilidad no se demuestra, se declara |
-| **2.1.2** Herramientas cloud y pipeline | Despliegue real en la nube; carga y formato eficiente con particionamiento; credenciales y permisos | 5.1 a 5.7, 6.10 a 6.12, 3.10, 11.1 y 11.2 | Cubierto; falta el tiempo CSV vs Parquet de Colab |
-| **2.1.3** Modelos descriptivos y predictivos | EDA distribuido; modelo con preprocesamiento, métricas e interpretación | 7.1 a 7.7, 8.1 a 8.9, 9.1 a 9.7 (validación cruzada en 9.2 a 9.7) | Cubierto, con validación cruzada de 5 grupos y comparación de tres algoritmos (notebook 04, ejecutado en Colab) |
-| **2.1.4** Planificación y trabajo en equipo | Gantt o Kanban; roles según fortalezas; bitácora e hitos | 4.1 a 4.6 (Figura 4.1) | Cubierto; faltan las fortalezas de Luis y confirmar fechas |
-| **Entregables** | Informe en PDF y repositorio con el enlace dentro del documento | 11.6, 14.4 | Repositorio publicado; falta el PDF con el enlace |

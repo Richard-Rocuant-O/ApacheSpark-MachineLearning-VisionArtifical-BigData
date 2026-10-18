@@ -13,7 +13,7 @@ Pipeline *batch* que ingiere, valida, almacena, analiza y modela un dataset con 
 - **Supabase (PostgreSQL)**: tabla de resumen por ejercicio, con seguridad por filas (RLS).
 - **Databricks Free Edition**: lectura y validación del dataset desde un *Volume* de Unity Catalog.
 
-El informe completo está en [`docs/INFORME.md`](docs/INFORME.md).
+La versión en Markdown del informe está en [`docs/INFORME.md`](docs/INFORME.md) y se usó como borrador de trabajo. El documento oficial es el informe en PDF entregado; si hay diferencias, prevalece el PDF.
 
 ## Dataset
 
