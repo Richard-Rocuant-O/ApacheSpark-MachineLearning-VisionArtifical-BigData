@@ -1,0 +1,27 @@
+# Datos y resultados generados (se descargan o se regeneran con los notebooks)
+proyecto_big_data/
+content/
+raw/
+processed/
+reports/
+*.zip
+*.parquet
+*.csv
+
+# Credenciales
+.env
+*.env
+secrets*
+*.pem
+*.key
+
+# Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db

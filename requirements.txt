@@ -1,0 +1,9 @@
+pyspark==3.5.3
+pandas
+pyarrow
+pillow
+kagglehub
+matplotlib
+scikit-learn
+psycopg[binary]
+setuptools
