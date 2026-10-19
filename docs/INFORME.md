@@ -4,10 +4,6 @@
 
 | | |
 |---|---|
-| **Asignatura** | Big Data (TI3025) |
-| **Evaluación** | Sumativa 02 (25 %) · Unidad 2 |
-| **Carrera** | Ingeniería en Informática · INACAP, sede Punta Arenas |
-| **Docente** | Paulo Simunovic Oyarzún |
 | **Integrantes** | Richard Rocuant y Luis Huanel |
 | **Fecha de entrega** | 19 de octubre de 2026 |
 
